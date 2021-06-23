@@ -5,3 +5,8 @@ body {
 .card {
     background-color: #f8f9fa;
 }
+
+img {
+    width: 260px;
+    height: 190px;
+}
